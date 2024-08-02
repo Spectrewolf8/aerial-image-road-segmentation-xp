@@ -4,6 +4,15 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+wurlitzer = "*"
+tensorflow = "*"
+keras = "*"
+ml-dtypes = "*"
+pydantic = "*"
+huggingface-hub = "*"
+opencv-python = "*"
+pandas = "*"
+tifffile = {extras = ["all"], version = "*"}
 
 [dev-packages]
 

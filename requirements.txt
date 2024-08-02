@@ -6,3 +6,6 @@ keras # ==2.14.0
 ml-dtypes
 pydantic # ==1.10.11
 huggingface_hub
+opencv-python
+tifffile[all]
+pandas
