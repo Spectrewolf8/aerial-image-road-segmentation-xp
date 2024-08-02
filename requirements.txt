@@ -1,0 +1,8 @@
+# datasets
+wurlitzer # ==3.1.1
+tensorflow # ==2.14.1
+keras # ==2.14.0
+# distutils-pytest
+ml-dtypes
+pydantic # ==1.10.11
+huggingface_hub
