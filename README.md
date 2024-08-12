@@ -174,19 +174,6 @@ The U-Net-50 model effectively segments road networks, demonstrating its potenti
 - **Framework:** TensorFlow 2.x
 - **Dependencies:** Keras, OpenCV, tifffile
 
----
-license: mit
-library_name: transformers
-tags:
-- Aerial Image Segmentation
-- Road Detection
-- Semantic Segmentation
-- U-Net-50
-- Computer Vision
-- Remote Sensing
-- Urban Planning
-- Geographic Information Systems (GIS)
-- Deep Learning
-datasets:
-- balraj98/massachusetts-roads-dataset
----
+## Demo
+![image](https://github.com/user-attachments/assets/37ad462a-3d6c-41ec-ad00-613534b30f4a)
+
