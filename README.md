@@ -1,6 +1,4 @@
-# Model Card for spectrewolf8/aerial-image-road-segmentation-with-U-NET-xp
-
-This model card provides an overview of a computer vision model designed for aerial image road segmentation using the U-Net-50 architecture. The model is intended to accurately identify and segment road networks from aerial imagery, crucial for applications in mapping and autonomous driving.
+This is an overview of a computer vision model designed for aerial image road segmentation using the U-Net-50 architecture. The model is intended to accurately identify and segment road networks from aerial imagery, crucial for applications in mapping and autonomous driving.
 
 ## Model Details
 
